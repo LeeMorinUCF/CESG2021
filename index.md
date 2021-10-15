@@ -2,7 +2,11 @@
 <hr style="border:2px solid gray"> 
 <h3 align = "center"> Friday, November 19 – Sunday, November 21, 2021 </h3>
 <div align = "center"><span style = "color:blue"> Hosted by the Vancouver School of Economics at the University of British Columbia</span></div>
-<hr style="border:2px solid gray"> 
+<hr style="border:1px solid gray"> 
 
 <h3 align = "center">Keynote Speakers</h3>
-<h2 align = "center"><strong>Yuichi Kitamura</strong> (Yale University) & Quang Vuong (New York University)</strong></h2>
+ 
+<h3 align = "center"><strong>Yuichi Kitamura (Yale University)</strong></h3>
+<h3 align = "center"><strong>&</strong></h3>
+<h3 align = "center"><strong>Quang Vuong (New York University)</strong></h3>
+<hr style="border:1px solid blue">
