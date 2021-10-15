@@ -1,10 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JayCata/CESG2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## The 37<sup>th</sup> Meeting of the Canadian Econometrics Study Group
+### "Advances in Structural Econometrics"
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
