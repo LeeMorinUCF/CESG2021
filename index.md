@@ -13,4 +13,4 @@
 
 <div align = "center"><span style = "color:red">** Call for papers closed. Submission deadline was Tuesday, June 1, 2021. **</span></div>
 
-<h3 align = "center"><a href="Accommodation.md"> Accommodations</a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a href="Registration.md">Registration & Contact</hr>
+<h3 align = "center"><a href="Accommodation.md"> Accommodations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="Registration.md">Registration & Contact</hr>
