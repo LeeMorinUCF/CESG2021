@@ -5,3 +5,4 @@
 <hr style="border:2px solid gray"> 
 
 <h3 align = "center">Keynote Speakers</h3>
+<h2 align = "center"><strong>Yuichi Kitamura</strong> (Yale University) & Quang Vuong (New York University)</strong></h2>
