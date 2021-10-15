@@ -1,5 +1,5 @@
-## The 37<sup>th</sup> Meeting of the Canadian Econometrics Study Group
-### "Advances in Structural Econometrics"
+## <div align = "center">"Advances in Structural Econometrics" </div>
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
