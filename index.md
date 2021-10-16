@@ -6,9 +6,9 @@
 
 <h3 align = "center">Keynote Speakers</h3>
  
-<h3 align = "center"><strong>Yuichi Kitamura (Yale University)</strong></h3>
+<h3 align = "center"><strong>Yuichi Kitamura</strong> (Yale University)</h3>
 <h3 align = "center"><strong>&</strong></h3>
-<h3 align = "center"><strong>Quang Vuong (New York University)</strong></h3>
+<h3 align = "center"><strong>Quang Vuong</strong> (New York University)</h3>
 <hr style="border:1px solid gray">
 
 <div align = "center"><span style = "color:red">** Call for papers closed. Submission deadline was Tuesday, June 1, 2021. **</span></div>
