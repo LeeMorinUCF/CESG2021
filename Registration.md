@@ -5,5 +5,6 @@
 <h3 align = "center"><strong>Online Participation is Free!</strong></h3>
 <hr style="border:1px solid gray"> 
 <h2 align = "center"><a href = "https://events.eply.com/CanadianEconometricsStudyGroup3364184" target = "_blank">Register here</a></h2>
-<hr style="border:1px solid gray"> 
 <p align = "center"><strong>Contact: </strong><a href="mailto:cesg.2020@ubc.ca">cesg.2021@ubc.ca</a></p>
+<hr style="border:1px solid gray"> 
+<p align = "center"><a href = "index.html">Back to Main Page</a></p>
