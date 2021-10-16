@@ -6,6 +6,4 @@
 <hr style="border:1px solid gray"> 
 <h3  align = "center"><span style="color: #ff0000;">There is a special conference rate of $119 CAD/night when you book <u> before Nov 3<sup>rd</sup>, 2021.</u></span></h3>
 <h3  align = "center"><span style="color: #ff0000;">Use the code <q>UBC CESG</q> when booking a room.</span></h3>
-<p align = "center"><button 
-    data-win-control="WinJS.UI.BackButton"> Back
-</button></p>
+<p align = "center"><a href = "index.html">Back to Main Page</a></p>
