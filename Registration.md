@@ -1,4 +1,5 @@
 <h1 align = "center"><strong>Registration &amp; Contact Information</strong></h1>
+<hr style="border:2px solid gray"> 
 <p align = "center"><strong>Regular: </strong>$150 CAD</p>
 <p align = "center"><strong>Student: </strong>$50 CAD</p>
 <p align = "center"><strong>Online Participation is Free!</strong></p>
