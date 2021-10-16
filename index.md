@@ -13,7 +13,8 @@
 
 <div align = "center"><span style = "color:red">** Call for papers closed. Submission deadline was Tuesday, June 1, 2021. **</span></div>
 
-<h3 align = "center"> <a href="Program_2021.pdf"> Program</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="Accommodation.html"> Accommodations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="Registration.md">Registration</a></h3>
+<h3 align = "center"> <a href="Accommodation.html"> Accommodations</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="Registration.md">Registration</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+<h3 align = "center"><a href="Program_2021.pdf"> Program</a></h3>
 <hr style="border:2px solid gray"> 
 <h3 align = "center">Our Sponsors</h3>
 <p align = "center"><a href="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx" target="_blank"><img alt="" img src="sponsors/SSHRC_logo.jpg" style="height:129px; width:389px"></a></p>
