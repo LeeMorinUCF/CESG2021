@@ -19,5 +19,5 @@
 <h3 align = "center">Our Sponsors</h3>
 <p align = "center"><a href="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx" target="_blank"><img alt="" img src="sponsors/SSHRC_logo.jpg" style="height:129px; width:389px"></a></p>
 <p align = "center"><a href="https://www.arts.ubc.ca/" target="_blank"><img alt="" src="sponsors/UBCFA_logo.png" style="height:118; width:565px"></a></p>
-<p align = "center"><a href="https://econ.cms.arts.ubc.ca/" target="_blank"><img alt="" src="sponsors/VSE_logo.jpeg" style="height:117px; width:565px"></a></p>
-<p align = "center"><a href="https://www.economics.ca/cpages/home" target="_blank"><img alt="" src="sponsors/CEA_logo.png" style="height:158px; width:1000px"></a></p>
+<p align = "center"><a href="https://econ.cms.arts.ubc.ca/" target="_blank"><img alt="" src="sponsors/VSE_logo.png" style="height:117px; width:565px"></a></p>
+<p align = "center"><a href="https://www.economics.ca/cpages/home" target="_blank"><img alt="" src="sponsors/CEA_logo.png" style="height:158px; width:800px"></a></p>
