@@ -13,4 +13,4 @@
 
 <div align = "center"><span style = "color:red">** Call for papers closed. Submission deadline was Tuesday, June 1, 2021. **</span></div>
 
-<h3 align = "center"> <a href="Program_2021.pdf"> Program</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="Accommodation.html"> Accommodations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="Registration.md">Registration & Contact</a></h3>
+<h3 align = "center"> <a href="Program_2021.pdf"> Program</a>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="Accommodation.html"> Accommodations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="Registration.md">Registration & Contact</a></h3>
