@@ -16,8 +16,7 @@
 <h3 align = "center"> <a href="Accommodation.html">Accommodations</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="Program_2021.html" target="_blank">Program</a>(<a href="Program_2021.pdf" target="_blank">PDF</a>) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="Registration.html">Registration</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 <h3 align = "center"></h3>
 <hr style="border:2px solid gray"> 
-<hr style="border:2px solid gray">
-<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 <h3 align = "center">Our Sponsors</h3>
 <p>&nbsp;</p>
