@@ -4,7 +4,7 @@
 <div align = "center"><span> Hosted by <a href = "https://economics.ubc.ca/" target="_blank">the Vancouver School of Economics</a> at <a href = "https://www.ubc.ca/" target="_blank">the University of British Columbia</a></span></div>
 <hr style="border:1px solid gray"> 
 
-<h3 align = "center">Keynote Speakers</h3>
+<h3 align = "center"><u>Keynote Speakers</u></h3>
  
 <h3 align = "center"><strong><a href = "https://economics.yale.edu/people/faculty/yuichi-kitamura" target="_blank">Yuichi Kitamura</a></strong> (Yale University)</h3>
 <h3 align = "center"><strong>&</strong></h3>
