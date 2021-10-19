@@ -1,7 +1,7 @@
 <h1 align = "center">"Advances in Structural Econometrics" </h1>
 <hr style="border:2px solid gray"> 
 <h3 align = "center"> Friday, November 19 – Sunday, November 21, 2021 </h3>
-<div align = "center"><span style = "color:blue"> Hosted by <a href = "https://economics.ubc.ca/" target="_blank">the Vancouver School of Economics</a> at <a href = "https://www.ubc.ca/" target="_blank">the University of British Columbia</a></span></div>
+<div align = "center"><span> Hosted by <a href = "https://economics.ubc.ca/" target="_blank">the Vancouver School of Economics</a> at <a href = "https://www.ubc.ca/" target="_blank">the University of British Columbia</a></span></div>
 <hr style="border:1px solid gray"> 
 
 <h3 align = "center">Keynote Speakers</h3>
