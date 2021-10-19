@@ -8,6 +8,6 @@
 <p align = "center">Relevant links &amp; information will be sent to registered attendees.</p>
 <hr style="border:1px solid gray"> 
 <h2 align = "center"><a href = "https://events.eply.com/CanadianEconometricsStudyGroup3364184" target = "_blank">Register here</a></h2>
-<p align = "center"><strong>Contact: </strong><a href="mailto:cesg.2020@ubc.ca">cesg.2021@ubc.ca</a></p>
+<p align = "center"><strong>Contact: </strong><a href="mailto:2021cesg@gmail.com">2021cesg@gmail.com</a></p>
 <hr style="border:1px solid gray"> 
 <p align = "center"><a href = "index.html">Back to Main Page</a></p>
