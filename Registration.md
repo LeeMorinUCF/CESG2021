@@ -1,8 +1,10 @@
 <h1 align = "center"><strong>Registration &amp; Contact Information</strong></h1>
 <hr style="border:2px solid gray"> 
+<h3 align = "center"><strong>Both online and in-person attendees must registed by <u>Nov 3, 2021.</u></strong></h3>
 <h3 align = "center"><strong>Regular: </strong>$150 CAD</h3>
 <h3 align = "center"><strong>Student: </strong>$50 CAD</h3>
 <h3 align = "center"><strong>Online participation is free!</strong></h3>
+<h3 align = "center"><span style = "color:red"><strong>In-person attendees must be fully vaccinated.</strong></span></h3>
 <p align = "center">Relevant links &amp; information will be sent to registered attendees.</p>
 <hr style="border:1px solid gray"> 
 <h2 align = "center"><a href = "https://events.eply.com/CanadianEconometricsStudyGroup3364184" target = "_blank">Register here</a></h2>
