@@ -1,8 +1,8 @@
 <h1 align = "center"><strong>Registration &amp; Contact Information</strong></h1>
 <hr style="border:2px solid gray"> 
 <h3 align = "center"><span style = "color:red"><strong>Both online and in-person attendees must register by <u>Nov 3, 2021.</u></strong></span></h3>
-<h3 align = "center"><strong>Regular: </strong>$150 CAD</h3>
-<h3 align = "center"><strong>Student: </strong>$50 CAD</h3>
+<h3 align = "center"><strong>In-Person Regular: </strong>$150 CAD</h3>
+<h3 align = "center"><strong>In-Person Student: </strong>$50 CAD</h3>
 <h3 align = "center"><strong>Online participation is free!</strong></h3>
 <h3 align = "center"><span style = "color:red"><strong>In-person attendees must be fully vaccinated.</strong></span></h3>
 <p align = "center">Relevant links &amp; information will be sent to registered attendees.</p>
